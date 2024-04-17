@@ -1,0 +1,14 @@
+{
+  "name": "tareatres",
+  "version": "1.0.0",
+  "description": "Pequeño programa que permite realizar llamada via HTTP a una API publica utilizando libreris de axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
